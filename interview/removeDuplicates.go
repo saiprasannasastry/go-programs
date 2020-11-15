@@ -3,7 +3,7 @@
 //below is an O(1) Space implementation and O(NlogN)
 //using go sort package, if not use mergeSortAlgo first
 
-package main
+package removeDuplicates
 
 import (
 	"fmt"

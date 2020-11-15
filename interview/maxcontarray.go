@@ -1,5 +1,5 @@
 //given an array find the max contiguous subarray
-package main
+package maxContarray
 
 import (
 	"fmt"
